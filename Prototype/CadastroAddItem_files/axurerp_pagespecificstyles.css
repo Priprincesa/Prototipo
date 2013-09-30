@@ -1,0 +1,447 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../CadastroAddItem_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:-6px;
+    top:-6px;
+    width:1025px;
+    height:760px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1025px;
+    height:760px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:372px;
+    width:1021px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_container {
+    position:absolute;
+    left:22px;
+    top:22px;
+    width:143px;
+    height:143px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:143px;
+    height:143px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../CadastroAddItem_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:43px;
+    top:240px;
+    width:937px;
+    height:466px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:943px;
+    height:472px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:225px;
+    width:933px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:620px;
+    top:198px;
+    width:196px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u7 {
+    position:absolute;
+    left:844px;
+    top:197px;
+    width:136px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u8 {
+    position:absolute;
+    left:43px;
+    top:188px;
+    width:551px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../CadastroAddItem_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:94px;
+    top:132px;
+    width:789px;
+    height:554px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:795px;
+    height:560px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:269px;
+    width:785px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../CadastroAddItem_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:94px;
+    top:625px;
+    width:788px;
+    height:61px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:794px;
+    height:67px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:784px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:664px;
+    top:633px;
+    width:200px;
+    height:41px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u14 {
+    position:absolute;
+    left:454px;
+    top:634px;
+    width:200px;
+    height:41px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u15_normal {
+    background-image: url('../CadastroAddItem_files/u11_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:94px;
+    top:132px;
+    width:788px;
+    height:61px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:794px;
+    height:67px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:784px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:566px;
+    top:216px;
+    width:92px;
+    height:40px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u18 {
+    position:absolute;
+    left:122px;
+    top:216px;
+    width:454px;
+    height:41px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u19 {
+    position:absolute;
+    left:844px;
+    top:144px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u20 {
+    position:absolute;
+    left:110px;
+    top:142px;
+    width:329px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_line {
+    background-image: url('../CadastroAddItem_files/u21_line.png');
+}
+
+.u21_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:382px;
+}
+
+.u21 {
+    position:absolute;
+    left:672px;
+    top:223px;
+    width:10px;
+    height:382px;
+    
+}
+
+.u22 {
+    position:absolute;
+    left:705px;
+    top:223px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../CadastroAddItem_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:692px;
+    top:589px;
+    width:180px;
+    height:16px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:22px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

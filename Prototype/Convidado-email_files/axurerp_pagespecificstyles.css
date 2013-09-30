@@ -1,0 +1,292 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Convidado-email_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:-1px;
+    top:-2px;
+    width:1381px;
+    height:748px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1381px;
+    height:748px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:1377px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Convidado-email_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:234px;
+    top:341px;
+    width:581px;
+    height:53px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:587px;
+    height:59px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:577px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../Convidado-email_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:224px;
+    top:290px;
+    width:209px;
+    height:18px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:215px;
+    height:24px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:205px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../Convidado-email_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:236px;
+    top:413px;
+    width:322px;
+    height:18px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:328px;
+    height:24px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:318px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../Convidado-email_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:287px;
+    top:248px;
+    width:169px;
+    height:18px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:24px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:165px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_container {
+    position:absolute;
+    left:692px;
+    top:311px;
+    width:110px;
+    height:110px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:110px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:47px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u12_container {
+    position:absolute;
+    left:247px;
+    top:358px;
+    width:445px;
+    height:18px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:451px;
+    height:24px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:441px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../Convidado-email_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:243px;
+    top:468px;
+    width:486px;
+    height:25px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:492px;
+    height:31px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:482px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

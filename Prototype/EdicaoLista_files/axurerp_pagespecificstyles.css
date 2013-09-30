@@ -1,0 +1,1578 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../EdicaoLista_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:-6px;
+    top:-6px;
+    width:1025px;
+    height:760px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1025px;
+    height:760px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:372px;
+    width:1021px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_container {
+    position:absolute;
+    left:22px;
+    top:22px;
+    width:143px;
+    height:143px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:143px;
+    height:143px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../EdicaoLista_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:43px;
+    top:240px;
+    width:937px;
+    height:466px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:943px;
+    height:472px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:225px;
+    width:933px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:620px;
+    top:198px;
+    width:196px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u7 {
+    position:absolute;
+    left:844px;
+    top:197px;
+    width:136px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u8_line {
+    background-image: url('../EdicaoLista_files/u8_line.png');
+}
+
+.u8_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:909px;
+    height:3px;
+}
+
+.u8 {
+    position:absolute;
+    left:57px;
+    top:323px;
+    width:909px;
+    height:10px;
+    
+}
+
+.u9 {
+    position:absolute;
+    left:150px;
+    top:274px;
+    width:298px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_container {
+    position:absolute;
+    left:65px;
+    top:252px;
+    width:64px;
+    height:64px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:64px;
+    height:64px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../EdicaoLista_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:769px;
+    top:269px;
+    width:88px;
+    height:25px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:517px;
+    top:272px;
+    width:100px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:690px;
+    top:269px;
+    width:24px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u16_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:696px;
+    top:256px;
+    width:10px;
+    height:7px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:696px;
+    top:299px;
+    width:10px;
+    height:7px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_line {
+    background-image: url('../EdicaoLista_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:909px;
+    height:3px;
+}
+
+.u20 {
+    position:absolute;
+    left:56px;
+    top:415px;
+    width:909px;
+    height:10px;
+    
+}
+
+.u21 {
+    position:absolute;
+    left:149px;
+    top:366px;
+    width:298px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_container {
+    position:absolute;
+    left:65px;
+    top:343px;
+    width:65px;
+    height:65px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:65px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../EdicaoLista_files/u12_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:771px;
+    top:360px;
+    width:88px;
+    height:25px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:517px;
+    top:361px;
+    width:100px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:689px;
+    top:361px;
+    width:24px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u28_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:695px;
+    top:348px;
+    width:10px;
+    height:7px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:695px;
+    top:391px;
+    width:10px;
+    height:7px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_line {
+    background-image: url('../EdicaoLista_files/u32_line.png');
+}
+
+.u32_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:909px;
+    height:3px;
+}
+
+.u32 {
+    position:absolute;
+    left:57px;
+    top:506px;
+    width:909px;
+    height:10px;
+    
+}
+
+.u33 {
+    position:absolute;
+    left:150px;
+    top:447px;
+    width:298px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_container {
+    position:absolute;
+    left:66px;
+    top:434px;
+    width:65px;
+    height:65px;
+}
+
+#u34_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:65px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../EdicaoLista_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:772px;
+    top:451px;
+    width:88px;
+    height:25px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:505px;
+    top:452px;
+    width:113px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:690px;
+    top:452px;
+    width:24px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u40_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:696px;
+    top:439px;
+    width:10px;
+    height:7px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:696px;
+    top:482px;
+    width:10px;
+    height:7px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../EdicaoLista_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:878px;
+    top:451px;
+    width:84px;
+    height:25px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:31px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_line {
+    background-image: url('../EdicaoLista_files/u46_line.png');
+}
+
+.u46_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:909px;
+    height:3px;
+}
+
+.u46 {
+    position:absolute;
+    left:56px;
+    top:600px;
+    width:909px;
+    height:10px;
+    
+}
+
+.u47 {
+    position:absolute;
+    left:149px;
+    top:548px;
+    width:298px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_container {
+    position:absolute;
+    left:65px;
+    top:528px;
+    width:65px;
+    height:65px;
+}
+
+#u48_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:65px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../EdicaoLista_files/u12_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:771px;
+    top:545px;
+    width:88px;
+    height:25px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:504px;
+    top:546px;
+    width:113px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:689px;
+    top:546px;
+    width:24px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u54_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:695px;
+    top:533px;
+    width:10px;
+    height:7px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:695px;
+    top:576px;
+    width:10px;
+    height:7px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:149px;
+    top:642px;
+    width:298px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_container {
+    position:absolute;
+    left:65px;
+    top:621px;
+    width:65px;
+    height:65px;
+}
+
+#u59_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:65px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../EdicaoLista_files/u12_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:771px;
+    top:638px;
+    width:88px;
+    height:25px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:504px;
+    top:639px;
+    width:113px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64 {
+    position:absolute;
+    left:689px;
+    top:639px;
+    width:24px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u65_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:695px;
+    top:626px;
+    width:10px;
+    height:7px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../EdicaoLista_files/u16_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:695px;
+    top:669px;
+    width:10px;
+    height:7px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:13px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../EdicaoLista_files/u69_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:772px;
+    top:720px;
+    width:30px;
+    height:25px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:31px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../EdicaoLista_files/u69_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:812px;
+    top:720px;
+    width:30px;
+    height:25px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:31px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../EdicaoLista_files/u69_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:852px;
+    top:720px;
+    width:30px;
+    height:25px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:31px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../EdicaoLista_files/u69_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:892px;
+    top:720px;
+    width:30px;
+    height:25px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:31px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../EdicaoLista_files/u69_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:932px;
+    top:720px;
+    width:30px;
+    height:25px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:31px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../EdicaoLista_files/u79_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:967px;
+    top:727px;
+    width:13px;
+    height:9px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:19px;
+    height:15px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:9px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../EdicaoLista_files/u81_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:878px;
+    top:545px;
+    width:88px;
+    height:25px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../EdicaoLista_files/u81_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:878px;
+    top:360px;
+    width:88px;
+    height:25px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../EdicaoLista_files/u81_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:878px;
+    top:269px;
+    width:88px;
+    height:25px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../EdicaoLista_files/u81_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:878px;
+    top:638px;
+    width:88px;
+    height:25px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../EdicaoLista_files/u89_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:63px;
+    top:423px;
+    width:805px;
+    height:80px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:811px;
+    height:86px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:801px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:43px;
+    top:188px;
+    width:551px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
